@@ -67,7 +67,7 @@
 
   _.register({
     rule: {
-      host: /^imgoutlet\.pw$/,
+      host: /^imgoutlet\.pw$/, 
       path: PATH_RULE,
     },
     async ready () {
@@ -99,8 +99,9 @@
   _.register({
     rule: {
       host: [
-        /^(picbaron|imgbaron|kvador|imgsen|picdollar)\.com$/,
+        /^(picbaron|imgbaron|kvador|imgsen|picdollar|imgsto)\.com$/,
         /^imgfiles\.org$/,
+        /^pics4you\.net$/,
       ],
       path: PATH_RULE,
     },

@@ -279,6 +279,7 @@
     * imgrock.pw
     * imgsee.me
     * imgsen.com
+    * imgsto.com
     * imgtown.pw
     * imgve.com
     * imgview.pw
@@ -287,6 +288,7 @@
     * pic-maniac.com
     * picbaron.com
     * picdollar.com
+    * pics4you.net
     * uimgshare.com
     * uploadrr.com
 * picexposed.com
